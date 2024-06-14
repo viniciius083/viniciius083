@@ -1,6 +1,6 @@
 <div  align="center">
   <h2> Hi there 👋, I'm Vinicius </h2>
-  <h5>I'm 23 years old, I was born in João Pessoa - PB. I have a degree in Computer Science from the University Center of João Pessoa - UNIPÊ (2021). I really like technology, especially the backend, because it makes me think a lot about what the logic behind the system is. I'm currently working as a backend developer.<h5>
+  <h5>I'm 25 years old, I was born in João Pessoa - PB. I have a degree in Computer Science from the University Center of João Pessoa - UNIPÊ (2021). I really like technology, especially the backend, because it makes me think a lot about what the logic behind the system is. I'm currently working as a backend developer.<h5>
 </div>
 
 <div align="center">
